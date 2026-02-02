@@ -1,6 +1,7 @@
 # NIDHI – Agentic AI Loan Assistant
 
-🔗 Live Demo: (add Streamlit Cloud / local demo link if available)
+🔗 Live Demo: https://nidhi-agentic-loan-assistant-prototypegit-b9v8qefs5plcm7676zf9.streamlit.app/
+
 
 ---
 
